@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+    
+        function convert() {
+            let text = document.getElementById("edittext").value;
+
+            document.getElementById("result").innerHTML = console.log(JSON.parse(text));
+        }
+    </script>
+    <title>json conver to js</title>
+</head>
+
+<body>
+    <input id="edittext" />
+    <input id="submit" type="button" name="submit" onclick="convert()" />
+
+    <p id="result">
+
+
+    </p>
+</body>
+
+</html>

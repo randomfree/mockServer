@@ -1,0 +1,33 @@
+ {  "code":1000,
+    "data":{
+        "list":[{
+            "id" : 0,
+            "user_id" : 71107111,
+            "nickname" : "绿色心情",
+            "head_img_url" : "http://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJ3fianf5AraIria37icBXiccs5sD9bibzibLIz5Vqbkoy9QIVepnQR8Ev128HdOW2OSCb1jPlZAfXWg4Fw/132",
+            "famous_type" : 0,
+            "member_type" : 0,
+            "rcmd_word" : "艺术领域优质作者",
+            "bedge_img" :null,
+            "label_img" :null,
+            "member_img" :null,
+            "member_status" : 0,
+            "uri" : "meipian://user/column?__experimentIds__=&__feedType__=1600001&__locationId__=3&__path__=&__trackId__=58fd15bb4b116563&author_id=71107111"
+        },{
+            "id" : 1,
+            "user_id" : 71107112,
+            "nickname" : "绿色心情",
+            "head_img_url" : "http://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTJ3fianf5AraIria37icBXiccs5sD9bibzibLIz5Vqbkoy9QIVepnQR8Ev128HdOW2OSCb1jPlZAfXWg4Fw/132",
+            "famous_type" : 0,
+            "member_type" : 0,
+            "rcmd_word" : "艺术领域优质作者",
+            "bedge_img" :null,
+            "label_img" :null,
+            "member_img" :null,
+            "member_status" : 0,
+            "uri" : "meipian://user/column?__experimentIds__=&__feedType__=1600001&__locationId__=3&__path__=&__trackId__=58fd15bb4b116563&author_id=71107111"
+        }]
+    }
+ }
+    
+     
