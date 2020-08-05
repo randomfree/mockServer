@@ -1,0 +1,4 @@
+# 手机上配合charles用的mockserver
+
+用charles的map remote功能把想要mock的接口地址映射到本地的这个程序的接口上
+然后修改mockdata.js的映射就行了
